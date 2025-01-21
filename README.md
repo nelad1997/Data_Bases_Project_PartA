@@ -1,6 +1,6 @@
 # Django Project PartA
 
-# Project Overview
+## Project Overview
 
 This project focuses on designing and implementing a database for a content services company. The work includes the following steps:
 
